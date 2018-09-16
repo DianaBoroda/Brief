@@ -1,0 +1,552 @@
+html {
+    display: block
+        ;
+}
+
+html, body {
+    display: block;
+    margin-left: 255px;
+    margin right: 258px;
+
+    
+}
+
+#header-area {
+    background: #222 linear-gradient(#454545,#000) no-repeat;
+    background: #222 linear-gradient(#454545,#000) no-repeat;
+    background: #222 linear-gradient(#454545,#000) no-repeat;
+    width: 1012.810px;
+}
+
+#site-Project layout {
+    display:block;
+    margin-left: 255px;
+    margin right: 258px;
+}
+
+#nav-area {
+    width:255px;
+    display: block;    
+
+}
+
+div {
+    display: block;
+}
+.slider-display {
+    position: relative;
+    margin: 1ex 50px 0 45px;
+    padding: 0;
+    height: 100%;
+    width:519px;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.wrapper {
+    margin-left: 255px;
+    margin right: 258px;
+}
+
+.right-column {
+    
+    background-image: linear-gradient(-269deg, #07455E 0%, #4A7F96 100%);
+    margin-left: 519px;
+    margin-right: 258px;
+    width: 24px;
+    height: 82px;
+}
+
+.nav1 {
+    background-image: linear-gradient(0deg, #001D2C 0%, #6BABC5 100%);
+    border: 1 solid #0C1722;
+    margin-left: 255px;
+    margin-right: 258px;
+    margin-top: 3px;
+    color: white;
+    font-family: arial, regular;
+    font-size: 8pt;
+    text-align: justify;
+    display:inline-flex;
+    align-items:flex-end;
+    position: relative;
+    
+}
+
+.bet-type {
+    padding-left: 6px;
+    padding-bottom: 9px;
+    width:103.69px;
+}
+
+hr {
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #fff;
+    width:342px;
+    border-style:inset;
+    padding-bottom: 4px;
+}
+
+.background-rectangle {
+    background: rgba(3,71,98,0.80);
+    border: 0 solid #0C1722;
+    width:519px;
+    margin-left: 255px;
+    margin-right: 255px;
+    margin-top: 0px;
+    display: inline-flex;
+    align-items:center;
+    position: relative;
+}
+
+.week-type{
+    padding-right: 5px;
+    padding-bottom: 9px;
+    width:40.69px;
+    height:12.82 px;
+
+}
+
+.week-type:hover {
+    background-image: linear-gradient(0deg, #D7A13B 38%, #FFCF19 100%);
+   
+}
+
+.nav2 {
+    background-image: linear-gradient(-179deg, #001D2C 17%, #6BABC5 100%);
+    border: 0 solid #0C1722;
+    margin-left: 255px;
+    margin-right: 258px;   
+    display:inline-flex;
+    align-items:center;
+     position: relative;
+    
+}
+
+.match {
+    color:white;
+    font-family: arial, regular;
+    font-size: 8pt;
+    text-align: left;
+    padding-left: 6px;
+    padding-top: 5px;
+}
+
+.pager{
+    background-image: linear-gradient(0deg, #B2ABAB 0%, #D3CECF 27%, #F0EEEF 52%);
+    border: 1px solid #979797;
+    border-radius:10px;
+    width: 70px;
+    height: 17px;
+    font-family: ArialMT;
+    font-size: 11px;
+    color: #1B5E78;
+    text-align:center;
+    border: 1px solid #2F5C70;
+    margin-left: auto;
+    margin-right: 5px;
+}
+
+
+.team-table {
+    table-layout: fixed;
+    width:74.7px;
+    
+}
+
+.btn-group button {
+    background-image: linear-gradient(0deg, #001D2C 38%, #0076A5 100%);
+    border: 0 solid #0C1722;
+    color:white;
+    font-size: 4pt;
+    font-family: arial, reagular;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,0.50);
+    width: 74.7px;
+    height: 18.95px;
+    cursor: pointer; 
+    display: block;
+}
+
+.btn-group {
+    padding-top:0px;
+    margin-left: 5px;
+}
+
+.btn-group button:hover {
+    background-image: linear-gradient(0deg, #D7A13B 38%, #FFCF19 100%);
+
+}
+
+.button1 img {
+    height: 15px;
+    width: 15px;
+    vertical-align:middle;   
+}
+
+.button2 img {
+    height: 12px;
+    width: 12px;
+    vertical-align:middle;    
+}
+
+.button3 img {
+    height: 14px;
+    width: 14px;
+    vertical-align:middle;      
+}
+
+.button4 img {
+    height: 14px;
+    width: 14px;
+    vertical-align:middle;      
+}
+
+.button5 img {
+    height: 15px;
+    width: 15px;
+    vertical-align:middle;         
+}
+
+.button6 img {
+    height: 13px;
+    width: 13px;
+    vertical-align:middle;       
+}
+
+.button7 img {
+    height: 15px;
+    width: 15px;
+    vertical-align:middle;     
+}
+
+.button8 img {
+    height: 15px;
+    width: 15px;
+    vertical-align:middle;     
+}
+
+.button9 img {
+    height: 14px;
+    width: 14px;
+    vertical-align:middle;     
+}
+
+.button10 img {
+    height: 14px;
+    width: 14px;
+    vertical-align:middle;     
+}
+
+.img {
+    padding-top: 7px;
+}
+
+.img1 {
+    padding-top: 6px;
+}
+
+#container {
+    margin-left: 255px;
+    margin-right: 258px;
+    border: 1px black;
+}
+
+.match-results {
+    background-color:#1B5E78;
+    width:519px;
+    height:27px;
+    color:#FFCF1B;
+    display:inline-flex;
+    align-items:center;
+    font-size: 9pt;
+    font-family: arial, reagular;
+
+}
+
+.fav-catg{ 
+    display:flex;
+    justify-content: flex-end;
+    align-self:center;
+    width:13px;
+    margin-left: auto;
+    margin-right:13px;
+    color: #979797;
+}
+
+.table-row { 
+    width:519px;
+    height:27px;
+    display:inline-flex;
+   
+}
+ 
+.liverpool{
+    background-image: linear-gradient(-180deg, rgba(198,198,198,0.47) 4%, rgba(201,210,213,0.66) 27%, #FAF8F8 100%);
+    border: 1 solid #B1AAAA;
+    border-radius: 2px;
+    color:#1B5E78;
+    width:196px;
+    height:27px;
+    margin-left:auto;
+    margin-right:2.5px;
+    text-align: left;
+    display:inline-flex;
+}
+
+.drawn {
+    background-image: linear-gradient(-180deg, rgba(198,198,198,0.47) 4%, rgba(201,210,213,0.66) 27%, #FAF8F8 100%);
+    border: 1 solid #B1AAAA;
+    border-radius: 2px;
+    color:#1B5E78;
+    width:121px;
+    height:27px;
+    margin-left: auto;
+    margin-right:2.5px;
+    text-align: left;
+    display:inline-flex;
+    
+}
+
+.leichester {
+    background-image: linear-gradient(-180deg, rgba(198,198,198,0.47) 4%, rgba(201,210,213,0.66) 27%, #FAF8F8 100%);
+    border: 1 solid #B1AAAA;
+    border-radius: 2px;
+    color:#1B5E78;
+    width:196px;
+    height:27px;
+    margin-left: 1px;
+    text-align: left;
+    display:inline-flex;
+    
+}
+
+.leich {
+    color:black;
+    margin-left: auto;
+}
+
+.drawnx {
+    color:black;
+    margin-left: auto;
+    
+}
+
+.liv {
+    color:black;
+    margin-left: auto;
+    
+}
+
+#container1 {
+    margin-left: 255px;
+    margin-right: 258px;
+    border: 1px black;
+    padding-top: 2px;
+}
+
+.correct-score {
+    background-color:#1B5E78;
+    width:519px;
+    height:27px;
+    color:#FFCF1B;
+    display:inline-flex;
+    align-items:center;
+    font-size: 9pt;
+    font-family: arial, reagular;
+
+}
+
+.fav-catg{ 
+    display:flex;
+    justify-content: flex-end;
+    align-self:center;
+    width:13px;
+    margin-left: auto;
+    margin-right:13px;
+    color: #979797;
+}
+
+.table-row { 
+    width:519px;
+    height:27px;
+    display:inline-flex;
+   
+}
+ 
+.score-liv {
+    background-image: linear-gradient(-180deg, rgba(198,198,198,0.47) 4%, rgba(201,210,213,0.66) 27%, #FAF8F8 100%);
+    border: 1 solid #B1AAAA;
+    border-radius: 2px;
+    color:#1B5E78;
+    width:172px;
+    height:27px;
+    margin-left:auto;
+    margin-right:2.5px;
+    text-align: left;
+    display:inline-flex;
+}
+
+.score-drawn {
+    background-image: linear-gradient(-180deg, rgba(198,198,198,0.47) 4%, rgba(201,210,213,0.66) 27%, #FAF8F8 100%);
+    border: 1 solid #B1AAAA;
+    border-radius: 2px;
+    color:#1B5E78;
+    width:172px;
+    height:27px;
+    margin-left: auto;
+    margin-right:2.5px;
+    text-align: left;
+    display:inline-flex;
+    
+}
+
+.score-leich {
+    background-image: linear-gradient(-180deg, rgba(198,198,198,0.47) 4%, rgba(201,210,213,0.66) 27%, #FAF8F8 100%);
+    border: 1 solid #B1AAAA;
+    border-radius: 2px;
+    color:#1B5E78;
+    width:172px;
+    height:27px;
+    margin-left: 1px;
+    text-align: left;
+    display:inline-flex;
+    
+}
+
+.leich1 {
+    color:black;
+    margin-left: auto;
+}
+
+.drawnx1 {
+    color:black;
+    margin-left: auto;
+    
+}
+
+.liv1 {
+    color:black;
+    margin-left: auto;
+    
+}
+
+.transparent {
+    width:172px;
+    height:27px;
+    background-color: transparent;
+    border: 0;
+}
+
+#container3 {
+    margin-left: 255px;
+    margin-right: 258px;
+    border: 1px black;
+    padding-top: 2px;
+}
+    
+.double-chance {
+    background-color:#1B5E78;
+    width:519px;
+    height:27px;
+    color:#FFCF1B;
+    display:inline-flex;
+    align-items:center;
+    font-size: 9pt;
+    font-family: arial, reagular;
+
+}
+
+.heading-bet {
+    background-image: linear-gradient(-180deg, rgba(198,198,198,0.47) 4%, rgba(201,210,213,0.66) 27%, #FAF8F8 100%);
+    border: 1 solid #B1AAAA;
+    border-radius: 2px;
+    color:#1B5E78;
+    width:519px;
+    height:27px;
+    margin-left: 1px;
+    text-align: left;
+    display:inline-flex;
+    
+}
+.price-bet {
+    color:black;
+    margin-left: auto;
+}
+
+#container4 {
+    margin-left: 255px;
+    margin-right: 258px;
+    border: 1px black;
+    padding-top: 2px;
+}
+
+.total-score {
+    background-color:#1B5E78;
+    width:519px;
+    height:27px;
+    color:#FFCF1B;
+    display:inline-flex;
+    align-items:center;
+    font-size: 9pt;
+    font-family: arial, reagular;
+}
+
+#container5 {
+    margin-left: 255px;
+    margin-right: 258px;
+    border: 1px black;
+    padding-top: 2px;
+}
+
+.total-goals {
+    background-color:#1B5E78;
+    width:259px;
+    height:27px;
+    color:#FFCF1B;
+    display:inline-flex;
+    align-items:center;
+    font-size: 9pt;
+    font-family: arial, reagular;
+}
+
+.over {
+    background-image: linear-gradient(-180deg, rgba(198,198,198,0.47) 4%, rgba(201,210,213,0.66) 27%, #FAF8F8 100%);
+    border: 1 solid #B1AAAA;
+    border-radius: 2px;
+    color:#1B5E78;
+    width:259px;
+    height:27px;
+    margin-left: 1px;
+    text-align: left;
+    display:inline-flex;
+}
+
+.under {
+    background-image: linear-gradient(-180deg, rgba(198,198,198,0.47) 4%, rgba(201,210,213,0.66) 27%, #FAF8F8 100%);
+    border: 1 solid #B1AAAA;
+    border-radius: 2px;
+    color:#1B5E78;
+    width:259px;
+    height:27px;
+    margin-left: 1px;
+    text-align: left;
+    display:inline-flex;
+    
+}
+
+.over1 {
+    color:black;
+    margin-left: auto;
+}
+
+.under1 {
+    color:black;
+    margin-left: auto;
+    
+}
+    
+#slip-area {
+    width:258px;
+    display:block;
+    margin-left:auto;
+}
